@@ -1,0 +1,48 @@
+
+###############################
+Overall
+
+Accuracy
+(nan, nan)
+F1
+(nan, nan)
+Precision
+(nan, nan)
+Recall
+(nan, nan)
+
+###############################
+intake, assessment, and diagnosis
+
+Accuracy
+(nan, nan)
+F1
+(nan, nan)
+Precision
+(nan, nan)
+Recall
+(nan, nan)
+
+###############################
+treatment planning
+
+Accuracy
+(nan, nan)
+F1
+(nan, nan)
+Precision
+(nan, nan)
+Recall
+(nan, nan)
+
+###############################
+counseling skills and interventions
+
+Accuracy
+(nan, nan)
+F1
+(nan, nan)
+Precision
+(nan, nan)
+Recall
+(nan, nan)

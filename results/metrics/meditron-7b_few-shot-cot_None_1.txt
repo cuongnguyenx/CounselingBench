@@ -1,0 +1,72 @@
+
+###############################
+Overall
+
+Accuracy
+(np.float64(nan), np.float64(nan))
+F1
+(np.float64(nan), np.float64(nan))
+Precision
+(np.float64(nan), np.float64(nan))
+Recall
+(np.float64(nan), np.float64(nan))
+
+###############################
+intake, assessment, and diagnosis
+
+Accuracy
+(np.float64(nan), np.float64(nan))
+F1
+(np.float64(nan), np.float64(nan))
+Precision
+(np.float64(nan), np.float64(nan))
+Recall
+(np.float64(nan), np.float64(nan))
+
+###############################
+treatment planning
+
+Accuracy
+(np.float64(nan), np.float64(nan))
+F1
+(np.float64(nan), np.float64(nan))
+Precision
+(np.float64(nan), np.float64(nan))
+Recall
+(np.float64(nan), np.float64(nan))
+
+###############################
+counseling skills and interventions
+
+Accuracy
+(np.float64(nan), np.float64(nan))
+F1
+(np.float64(nan), np.float64(nan))
+Precision
+(np.float64(nan), np.float64(nan))
+Recall
+(np.float64(nan), np.float64(nan))
+
+###############################
+professional practice and ethics
+
+Accuracy
+(np.float64(nan), np.float64(nan))
+F1
+(np.float64(nan), np.float64(nan))
+Precision
+(np.float64(nan), np.float64(nan))
+Recall
+(np.float64(nan), np.float64(nan))
+
+###############################
+core counseling attributes
+
+Accuracy
+(np.float64(nan), np.float64(nan))
+F1
+(np.float64(nan), np.float64(nan))
+Precision
+(np.float64(nan), np.float64(nan))
+Recall
+(np.float64(nan), np.float64(nan))
