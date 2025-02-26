@@ -2,7 +2,7 @@
 Github Repo for the paper "Do Large Language Models Align with Core Mental Health Counseling Competencies?"
 
 ## Data
-The CounselingBench dataset can be found in /data folder
+The CounselingBench dataset can be found in /data folder. The dataset can also be found on [HuggingFace][https://huggingface.co/datasets/ckmjx/CounselingBench]
 
 ## QA Accuracy Evaluation
 In order to reproduce the results found in RQ1 and RQ2, run the following command
